@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Digitize", "Digitize\Digitize.csproj", "{DDE11E3E-D720-435B-BD0C-D2DB9C3B8DB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.Digitize", "Test.Digitize\Test.Digitize.csproj", "{30CA4C32-AD62-4686-8257-5308A60F588B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDE11E3E-D720-435B-BD0C-D2DB9C3B8DB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDE11E3E-D720-435B-BD0C-D2DB9C3B8DB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDE11E3E-D720-435B-BD0C-D2DB9C3B8DB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDE11E3E-D720-435B-BD0C-D2DB9C3B8DB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30CA4C32-AD62-4686-8257-5308A60F588B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30CA4C32-AD62-4686-8257-5308A60F588B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30CA4C32-AD62-4686-8257-5308A60F588B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30CA4C32-AD62-4686-8257-5308A60F588B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DB58804-5F7C-4AFA-9A3D-8F95D97F1237}
+	EndGlobalSection
+EndGlobal
