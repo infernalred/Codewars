@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Give me a Diamond", "Give me a Diamond\Give me a Diamond.csproj", "{B664E1F3-38D8-4714-B8D9-01D24FDBB3D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Give me a Diamond.Test", "Give me a Diamond.Test\Give me a Diamond.Test.csproj", "{3231F2E7-2EEF-4399-B766-C6303D7B76DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B664E1F3-38D8-4714-B8D9-01D24FDBB3D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B664E1F3-38D8-4714-B8D9-01D24FDBB3D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B664E1F3-38D8-4714-B8D9-01D24FDBB3D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B664E1F3-38D8-4714-B8D9-01D24FDBB3D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3231F2E7-2EEF-4399-B766-C6303D7B76DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3231F2E7-2EEF-4399-B766-C6303D7B76DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3231F2E7-2EEF-4399-B766-C6303D7B76DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3231F2E7-2EEF-4399-B766-C6303D7B76DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
