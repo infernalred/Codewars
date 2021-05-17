@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conways Game of Life Unlimited Edition", "Conways Game of Life Unlimited Edition\Conways Game of Life Unlimited Edition.csproj", "{9298F5A8-5C66-4FD1-B9E0-DBB84FD9BB91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{3AFBA829-47C5-45D3-9664-20846A3A2B7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9298F5A8-5C66-4FD1-B9E0-DBB84FD9BB91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9298F5A8-5C66-4FD1-B9E0-DBB84FD9BB91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9298F5A8-5C66-4FD1-B9E0-DBB84FD9BB91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9298F5A8-5C66-4FD1-B9E0-DBB84FD9BB91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AFBA829-47C5-45D3-9664-20846A3A2B7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AFBA829-47C5-45D3-9664-20846A3A2B7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AFBA829-47C5-45D3-9664-20846A3A2B7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AFBA829-47C5-45D3-9664-20846A3A2B7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
