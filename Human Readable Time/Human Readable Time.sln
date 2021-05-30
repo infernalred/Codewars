@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Human Readable Time", "Human Readable Time\Human Readable Time.csproj", "{B341E49F-6367-4A71-B84D-EF7572A974CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{D74DD201-0447-45A3-BF0E-B63FF753542F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B341E49F-6367-4A71-B84D-EF7572A974CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B341E49F-6367-4A71-B84D-EF7572A974CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B341E49F-6367-4A71-B84D-EF7572A974CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B341E49F-6367-4A71-B84D-EF7572A974CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D74DD201-0447-45A3-BF0E-B63FF753542F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D74DD201-0447-45A3-BF0E-B63FF753542F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D74DD201-0447-45A3-BF0E-B63FF753542F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D74DD201-0447-45A3-BF0E-B63FF753542F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
